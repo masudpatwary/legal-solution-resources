@@ -128,3 +128,39 @@ color: #414040;
     border:none
 
 }
+
+.form_btn{
+    width: 100%;
+padding: 18px;
+text-wrap: nowrap;
+border-radius: 8px;
+}
+
+/* Footer */
+
+.footer{
+    background-color: #111;
+    padding: 200px 375px;
+}
+
+.footer_common_color{
+color: #a59e9e;
+font-size: medium;
+}
+
+.list{
+    list-style: none;
+}
+.footer_input_position{
+    position: relative;
+}
+
+.footer_input{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    padding: 17px;
+    background-color:#b68c5a ;
+    
+}
