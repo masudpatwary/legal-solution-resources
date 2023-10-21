@@ -527,8 +527,8 @@
         <h1 class="fs-2 text-center fw-bold heading_color eb_gramond">Contact With Us</h1>
       <p class="text-center common_color">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
       </div>
-      <div>
-        <div class="w-50 row row-cols-1 row-cols-sm-2">
+      <div class="d-flex gap-4">
+        <div class="w-50 row row-cols-1 row-cols-sm-2 p-4">
           <div class="text-center bg_clolor p-5 border_right border_bottom">
             <img src="images/location.png" alt="">
             <h1 class="eb_gramond fs-4 heading_color fw-bold my-3">Address</h1>
@@ -554,14 +554,30 @@
               Sunday: 9AM to 1 PM</p>
           </div>
         </div>
-        <div>
-          <div class="from w-50"></div>
+        <div class="w-50">
+            <div class="mb-3">
+              <label for="exampleFormControlInput1" class="form-label"></label>
+              <input type="email" class="form-control bg_clolor py-4 common_color form_border" id="exampleFormControlInput1" placeholder="Your Name">
+            </div>
+            <div class="mb-3">
+              <label for="exampleFormControlInput1" class="form-label"></label>
+              <input type="email" class="form-control bg_clolor py-4 common_color form_border" id="exampleFormControlInput1" placeholder="Your Email">
+            </div>
+            <div class="mb-3">
+              <label for="exampleFormControlInput1" class="form-label"></label>
+              <input type="email" class="form-control bg_clolor py-4 common_color form_border" id="exampleFormControlInput1" placeholder="Subject">
+            </div>
+            <div class="mb-3">
+              <label for="exampleFormControlTextarea1" class="form-label"></label>
+              <textarea class="form-control form-control bg_clolor py-4 common_color form_border" id="exampleFormControlTextarea1" placeholder="Your Message" rows="3"></textarea>
+            </div>
+            <button
+            class="btn btn-outline-success btn_color text-white fw-semibold py-3 px-4"
+            type="submit">Send Message
+            </button>
         </div>
       </div>
-      <div>
-        <input class="form-control" type="text" placeholder="Disabled input" aria-label="Disabled input example" disabled>
-          <input class="form-control" type="text" value="Disabled readonly input" aria-label="Disabled input example" disabled readonly>
-      </div>
+      
     </section>
 
     <!-----------------------------------------------

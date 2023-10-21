@@ -121,3 +121,10 @@ color: #414040;
 .border_bottom{
     border-bottom: 1px solid #e7e7e7;
 }
+
+/* from  */
+
+.form_border{
+    border:none
+
+}
