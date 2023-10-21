@@ -1,6 +1,123 @@
-.primary{
-    color: #707070;
+* {
+  font-family: "Poppins", sans-serif;
 }
-.btn_color{
-    background-color: #B68C5A;
+
+.eb_gramond {
+  font-family: "EB Garamond", serif;
+}
+
+.heading_color{
+color: #414040;
+}
+
+.common_color {
+  color: #414040;
+}
+
+.primary {
+  color: #e7e7e7;
+}
+
+.btn_color {
+  background-color: #b68c5a;
+}
+
+.banner_section {
+  background-image: url(/images/banner.png);
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+  padding: 123px 270px;
+  border-radius: 8px;
+  margin-bottom: 120px;
+}
+
+.banner_heading {
+  font-size: 80px;
+  line-height: 85px;
+}
+
+.Search_nput {
+  padding: 20px 160px;
+  margin-right: 15px;
+  border: none;
+}
+
+.Search_btn {
+  padding: 20px 40px;
+  font-size: 16px;
+  border: none;
+}
+
+/* Practice area section  */
+
+.practice_aera_heading {
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: 24px;
+  color: #414040;
+}
+
+
+/* clients area  */
+
+
+.Card {
+  padding: 50px;
+}
+
+.card_btn_color {
+  color: white;
+  font-size: 20px;
+  background-color: #b68c5a;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.card_img {
+  height: 150px;
+}
+
+.card_1_3 {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.card_vr {
+  border-right: 1px solid #e7e7e7;
+  border-left: 1px solid #e7e7e7;
+}
+
+.card_2 {
+  border: 1px solid #e7e7e7;
+  background: linear-gradient(180deg, #f3f3f3 0%, rgba(243, 243, 243, 0) 100%);
+}
+
+.accordion_button {
+  background-color: #f3f3f3;
+  padding: 20px 30px;
+  border: none;
+}
+
+
+.accordion_body {
+  background-color: #f3f3f3;
+}
+
+/* Contact */
+
+.bg_clolor{
+    background-color: #f3f3f3;
+}
+
+.border_right{
+    border-right:  1px solid #e7e7e7;
+}
+
+.border_bottom{
+    border-bottom: 1px solid #e7e7e7;
 }

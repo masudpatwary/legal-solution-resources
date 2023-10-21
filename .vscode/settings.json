@@ -12,5 +12,11 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorSurroundingLines": 5,
     "editor.cursorWidth": 2,
-    "terminal.integrated.cursorBlinking": false
+    "terminal.integrated.cursorBlinking": false,
+    "editor.fontSize": 17,
+    "debug.console.fontSize": 17,
+    "terminal.integrated.fontSize": 17,
+    "cSpell.words": [
+        "Ditals"
+    ]
 }
