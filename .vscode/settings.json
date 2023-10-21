@@ -1,0 +1,16 @@
+{
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 150,
+    "workbench.editor.wrapTabs": false,
+    "html.format.wrapAttributesIndentSize": null,
+    "css.format.maxPreserveNewLines": null,
+    "editor.accessibilityPageSize": 10,
+    "editor.inlineCompletionsAccessibilityVerbose": false,
+    "editor.padding.bottom": 0,
+    "editor.renderFinalNewline": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorSurroundingLines": 5,
+    "editor.cursorWidth": 2,
+    "terminal.integrated.cursorBlinking": false
+}
